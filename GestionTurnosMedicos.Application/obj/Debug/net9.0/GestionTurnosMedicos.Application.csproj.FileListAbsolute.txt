@@ -1,0 +1,16 @@
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\bin\Debug\net9.0\GestionTurnosMedicos.Application.deps.json
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\bin\Debug\net9.0\GestionTurnosMedicos.Application.dll
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\bin\Debug\net9.0\GestionTurnosMedicos.Application.pdb
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\bin\Debug\net9.0\GestionTurnosMedicos.Domain.dll
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\bin\Debug\net9.0\GestionTurnosMedicos.Domain.pdb
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionTurnosMedicos.Application.csproj.AssemblyReference.cache
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionTurnosMedicos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionTurnosMedicos.Application.AssemblyInfoInputs.cache
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionTurnosMedicos.Application.AssemblyInfo.cs
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionTurnosMedicos.Application.csproj.CoreCompileInputs.cache
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionTurnosMedicos.Application.sourcelink.json
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionT.5182E040.Up2Date
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionTurnosMedicos.Application.dll
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\refint\GestionTurnosMedicos.Application.dll
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\GestionTurnosMedicos.Application.pdb
+C:\Repos\dotnet-mvc\GestionTurnosMedicos.Application\obj\Debug\net9.0\ref\GestionTurnosMedicos.Application.dll
