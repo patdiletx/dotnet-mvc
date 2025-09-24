@@ -31,3 +31,8 @@ C:\Repos\dotnet-mvc\GestionTurnosMedicos.API\obj\Debug\net9.0\refint\GestionTurn
 C:\Repos\dotnet-mvc\GestionTurnosMedicos.API\obj\Debug\net9.0\GestionTurnosMedicos.API.pdb
 C:\Repos\dotnet-mvc\GestionTurnosMedicos.API\obj\Debug\net9.0\GestionTurnosMedicos.API.genruntimeconfig.cache
 C:\Repos\dotnet-mvc\GestionTurnosMedicos.API\obj\Debug\net9.0\ref\GestionTurnosMedicos.API.dll
+c:\Repos\dotnet-mvc\GestionTurnosMedicos.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\Repos\dotnet-mvc\GestionTurnosMedicos.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Repos\dotnet-mvc\GestionTurnosMedicos.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\Repos\dotnet-mvc\GestionTurnosMedicos.API\bin\Debug\net9.0\GestionTurnosMedicos.Infrastructure.dll
+c:\Repos\dotnet-mvc\GestionTurnosMedicos.API\bin\Debug\net9.0\GestionTurnosMedicos.Infrastructure.pdb

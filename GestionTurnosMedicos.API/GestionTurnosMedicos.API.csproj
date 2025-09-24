@@ -8,10 +8,12 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.9.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\GestionTurnosMedicos.Application\GestionTurnosMedicos.Application.csproj" />
+    <ProjectReference Include="..\GestionTurnosMedicos.Infrastructure\GestionTurnosMedicos.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
