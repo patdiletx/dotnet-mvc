@@ -58,8 +58,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj": {
-              "projectPath": "c:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj"
+            "C:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj": {
+              "projectPath": "C:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj"
             }
           }
         }

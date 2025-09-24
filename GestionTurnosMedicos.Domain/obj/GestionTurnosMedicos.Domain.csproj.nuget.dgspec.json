@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj": {}
+    "C:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj": {
+    "C:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj",
+        "projectUniqueName": "C:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj",
         "projectName": "GestionTurnosMedicos.Domain",
-        "projectPath": "c:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj",
+        "projectPath": "C:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\GestionTurnosMedicos.Domain.csproj",
         "packagesPath": "C:\\Users\\Pat\\.nuget\\packages\\",
-        "outputPath": "c:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\obj\\",
+        "outputPath": "C:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

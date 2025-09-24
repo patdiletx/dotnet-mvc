@@ -10,6 +10,7 @@ builder.Services.AddSwaggerGen();
 
 // Inyección de dependencias
 builder.Services.AddScoped<ITurnosRepository, TurnosRepository>();
+builder.Services.AddScoped<GestionTurnosMedicos.Application.Interfaces.ITurnosService, GestionTurnosMedicos.Application.Services.TurnosService>();
 
 var app = builder.Build();
 

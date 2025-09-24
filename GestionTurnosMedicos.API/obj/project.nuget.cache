@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8x7di6EBUOY=",
+  "dgSpecHash": "08GSR4nSocQ=",
   "success": true,
-  "projectFilePath": "c:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.API\\GestionTurnosMedicos.API.csproj",
+  "projectFilePath": "C:\\Repos\\dotnet-mvc\\GestionTurnosMedicos.API\\GestionTurnosMedicos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pat\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
     "C:\\Users\\Pat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

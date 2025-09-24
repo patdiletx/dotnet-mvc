@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestionTurnosMedicos.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5d4ca5019ee9de54e46947117e83eca9dead40b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3ab87b578e837e9d2eb0ff54d35479ee257f763")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestionTurnosMedicos.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestionTurnosMedicos.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
